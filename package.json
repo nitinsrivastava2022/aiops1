@@ -19,7 +19,7 @@
     "@vercel/otel": "^1.9.1",
     "ai": "latest",
     "dotenv": "^16.4.7",
-    "langfuse-vercel": "3.16.3-alpha1.0",
+    "langfuse-vercel": "3.37.0",
     "next": "latest",
     "openai": "4.52.6",
     "react": "^18",
